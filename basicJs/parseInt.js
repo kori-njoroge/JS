@@ -9,7 +9,7 @@ console.log(convertToInt("12133333334"));
 //radix is the base to be converted to;
 
 function convertToIntFromBinary(str) {
-    return parseInt("srt",36);
+    return parseInt("str",36);
 }
 
 console.log(convertToIntFromBinary("100011"));
