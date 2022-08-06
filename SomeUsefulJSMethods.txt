@@ -1,4 +1,6 @@
 arrayName.sort() => sorts array in order//.sort(function(a, b){return a - b});
 stringName.toUpperCase/LowerCase() => capitalizes or lowercases the provided string respectively.
 indexOf() search through an array
+.map();
+.filter();
 
