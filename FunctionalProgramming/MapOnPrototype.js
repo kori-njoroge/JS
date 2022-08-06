@@ -20,7 +20,7 @@ Array.prototype.myMap = function (callback) {
         // console.log(j);
         if (this[j] > 0) {
             // console.log(this[j])
-            newArray.push(this[j]);
+            newArray.push(callback(this[j]));
         }
     }
     // Only change code above this line
