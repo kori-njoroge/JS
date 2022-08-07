@@ -3,4 +3,6 @@ stringName.toUpperCase/LowerCase() => capitalizes or lowercases the provided str
 indexOf() search through an array
 .map();
 .filter();
+alt+z == wrap lines
+
 
